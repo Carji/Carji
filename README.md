@@ -1,4 +1,4 @@
-## Hello there, fellow coder!
+#  I know what you're thinking, 'cause right now I'm thinking the same thing!
 
 - 👋 Hi, I’m @pri0r
 - 👀 I’m interested in data analysis, BI or related fields.
