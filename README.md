@@ -1,13 +1,15 @@
-  <h3 align="center">
+  <h4 align="center">
   
   I know what you're thinking, 'cause right now I'm thinking the same thing!
 
 - 👋 Hi, I’m @pri0r, a passionate physicist from Spain
 - 👀 I’m interested in data analysis, mathematical physics, BI or related fields.
 - 🌱 I’m currently learning BigQuery&Tableau!
-</h3>
+</h4>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pri0r" alt="pri0r" /></a> </p>
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=pri0r)  
+
+![GitHub metrics](https://metrics.lecoq.io/pri0r)  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
