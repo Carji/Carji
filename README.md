@@ -15,7 +15,7 @@ Languages and Tools:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carji&hide=jupyter%20notebook,html)](https://github.com/carji)
 
-
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=carji&theme=github)
 
 
 </h3>
