@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Carji, a passionate physicist from Spain.
 - 👀 I’m interested in data analysis, mathematical physics, BI or related fields.
-- 🌱 I’m currently learning JavaScript!
+- 🌱 I’m currently learning PL/SQL & Scala!
 </h4>
 
 
