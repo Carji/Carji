@@ -3,7 +3,7 @@
 <!--  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=E3F3F7&vCenter=true&lines=I+know+what+you're+thinking%2C+'cause+right+now+I'm+thinking+the+same+thing!)](https://git.io/typing-svg) -->
 
 - 👋 Hi, I’m @Carji, a passionate physicist from Spain.
-- 👀 I’m interested in data analysis, mathematical physics, BI or related fields.
+- 👀 I’m interested in Data Analysis, BI or related fields.
 - 🌱 I’m currently learning PL/SQL & Scala!
 </h4>
 
