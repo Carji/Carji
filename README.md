@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Carji, a passionate physicist from Spain.
 - 👀 I’m interested in Data Analysis, BI or related fields.
-- 🌱 I’m currently learning PL/SQL & Scala!
+- 🌱 I’m currently learning Rust & Scala!
 </h4>
 
 
@@ -64,6 +64,6 @@
 
 
 <!---
-pri0r/pri0r is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Carji/Carji is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
