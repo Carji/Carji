@@ -4,7 +4,7 @@
 
 - 👋 Hi, I’m @Carji, a passionate physicist from Spain.
 - 👀 I’m interested in Data Analysis, BI or related fields.
-- 🌱 I’m currently learning Rust & Scala!
+- 🌱 I’m currently learning Power BI & Prefect!
 </h4>
 
 
@@ -24,10 +24,16 @@
   ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
   ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-    
-</p>
-  
 
+  </p>
+
+  BI  
+
+  ![Power BI](https://img.shields.io/badge/PowerBI-blue?style=for-the-badge&logo=Power-BI) 
+  ![Qlik](https://img.shields.io/badge/-QLIK%20SENSE-green?style=for-the-badge&logo=Quantcast)
+  ![Oracle](https://img.shields.io/badge/-Oracle%20Business%20Intelligence-red?style=for-the-badge&logo=Oracle)
+  </p>
+  
   DB
 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
@@ -43,15 +49,15 @@
 </p>
   
    Tools
-   
+  
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)  ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-      ![Power BI](https://img.shields.io/badge/PowerBI-blue?style=for-the-badge&logo=Power-BI)
+      
       
 </p>
   
   
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carji&hide=html,jupyter%20notebook)](https://github.com/carji)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carji&hide=html,java,jupyter%20notebook)](https://github.com/carji)
 
 <!--![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Carji&theme=github)
 -->
